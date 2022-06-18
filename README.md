@@ -19,3 +19,9 @@
 ![3](https://user-images.githubusercontent.com/56997905/174433605-5d779388-ca5b-44c3-8fba-fb4a3310b1c2.jpg)
 
 
+
+
+---> Performance Analysis Metrix
+
+![1](https://user-images.githubusercontent.com/56997905/174433658-f671fc73-4e35-4da7-aaca-0ddce130523e.jpg)
+![2](https://user-images.githubusercontent.com/56997905/174433659-bd6fd0c5-9d06-4a05-8a8b-1bbd07a28e0d.jpg)
